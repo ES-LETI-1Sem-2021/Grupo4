@@ -115,7 +115,7 @@ public class GUI extends JFrame {
 		list.setBorder(new BevelBorder(BevelBorder.LOWERED, null, null, null, null));
 
 		list.setModel(new AbstractListModel<String>() {
-			String[] values = new String[] { "Sara Fonseca - 60188", "Fabio Cruz - 62003", "Gonçalo Lopes - 54342" };
+			String[] values = new String[] { "Sara Fonseca - 60188", "Fabio Cruz - 62003", "Gonï¿½alo Lopes - 54342" };
 
 			public int getSize() {
 				return values.length;
@@ -261,10 +261,16 @@ public class GUI extends JFrame {
 
 	}
 
+	/**
+	 * @return the textField
+	 */
 	public JTextField getTextField() {
 		return textField;
 	}
 
+	/**
+	 * @param textField the textField to update
+	 */
 	public void setTextField(JTextField textField) {
 		this.textField = textField;
 	}
