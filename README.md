@@ -1,5 +1,11 @@
 ![ISTAR](https://gci.iscte-iul.pt/2020/logotipos/files/brand_v2/centros/rgb/istar/abbreviation/main/rgb_istar_abbreviation_main.png)
 
+---------------------------------------------------------------
+
+USER MANUAL
+
+--------------------------------------------------------------
+
 # ES-LETI-1Sem-2021-Grupo4
 
 Software Engineering Project:
@@ -13,6 +19,6 @@ Project demonstration.
 
 ---------------------------------------------------------------
 
-FOOTER
+Edited by FBA on 25/02/2022
 
 --------------------------------------------------------------
